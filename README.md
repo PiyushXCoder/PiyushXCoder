@@ -3,10 +3,10 @@
     <img alt="" src="./assets/hello.png" width="718">
 </p>
 
-<h1> Namste, I am Piyush Mishra! <img alt="" src="./assets/dont-matter-dont-care.gif" width="70"></h1>
+<h1>Namste, I am Piyush Mishra! <img alt="" src="./assets/dont-matter-dont-care.gif" width="70"></h1>
 
 <i>Software Developer</i> @ <a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a><br>
-<i>Enginerring Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
+<i>Engineering Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
 <i>Maths Enthusiast</i> @ <a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/piyushxcoder/)
