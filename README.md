@@ -7,7 +7,7 @@
 
 <i>Software Developer</i> @ <a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a><br>
 <i>Enginerring Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
-<i>Maths Enthusias</i> @ <a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
+<i>Maths Enthusiast</i> @ <a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/piyushxcoder/)
 [![Freelancer.in](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/PiyushTheRipper/)
