@@ -3,7 +3,7 @@
     <img alt="" src="./assets/hello.png" width="718">
 </p>
 
-<h1>Namste, I am Piyush Mishra! <img alt="" src="./assets/dont-matter-dont-care.gif" width="70"></h1>
+<h1>Namaste, I am Piyush Mishra! <img alt="" src="./assets/dont-matter-dont-care.gif" width="70"></h1>
 
 <i>Software Developer</i> @ <a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a><br>
 <i>Engineering Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
