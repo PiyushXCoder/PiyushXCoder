@@ -3,6 +3,7 @@
 <i>Software Developer</i> @ <a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a><br>
 <i>Engineering Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
 <i>Maths Enthusiast</i> @ <a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
+<i>Co-Founder</i> @ <a href="https://blockx3.xyz/">BlockX3</a><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://piyushxcoder.in)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushxcoder/)
