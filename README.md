@@ -3,7 +3,8 @@
 <i>Software Developer</i> @ <a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a><br>
 <i>Engineering Student</i> @ <a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a><br>
 <i>Maths Enthusiast</i> @ <a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
-<i>Co-Founder</i> @ <a href="https://centralresume.me/">Central Resume</a><br>
+
+[Proof of Work](https://www.notion.so/piyushxcoder/Proof-of-Work-2217adcd5053809f8ca4d8c9a198bfc4)
 
 I am a Software Developer. My interests are Full stack Web development,  Rust Programming language, and DevOps on Linux. Currently, I am learning about networking, database, and blockchain.
 
