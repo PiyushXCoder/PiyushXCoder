@@ -2,7 +2,7 @@
 
 Rust 🦀 | Web 🌐 | Golang | C++ | Solana
 
-[Proof of Work](https://www.notion.so/piyushxcoder/Proof-of-Work-2217adcd5053809f8ca4d8c9a198bfc4) | 
+[Proof of Work](https://piyushxcoder.in/proof-of-work) | 
 [Blogs](https://blogs.piyushxcoder.in)
 
 <i>Software Developer</i>@<a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a> |
