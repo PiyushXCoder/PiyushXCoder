@@ -1,4 +1,4 @@
-<h1>Namaste!</h1>
+# GM
 
 Rust 🦀 | Web 🌐 | Golang | C++ | Solana
 
