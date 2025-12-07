@@ -1,19 +1,13 @@
-<h1><img alt="" src="./assets/dont-matter-dont-care.gif" width="50"> Namaste!</h1>
+<h1>Namaste!</h1>
 
 Rust 🦀 | Web 🌐 | Golang | C++ | Solana
 
 [Proof of Work](https://piyushxcoder.in/proof-of-work) | 
 [Blogs](https://blogs.piyushxcoder.in)
 
-<i>Software Developer</i>@<a href="https://www.freelancer.in/u/PiyushTheRipper">Freelancing</a> |
-<i>Engineering Student</i>@<a href="https://en.wikipedia.org/wiki/Jain_University">Jain University</a> |
-<i>Maths Enthusiast</i>@<a href="https://en.wikipedia.org/wiki/Localhost">127.0.0.1</a><br>
+** Engineer since before AI was a copilot **
 
-I am a Software Developer. My interests are Full stack Web development,  Rust Programming language, and DevOps on Linux. Currently, I am learning about networking, database, and blockchain.
-
-In a nutshell, I can make beautiful websites and utility software for your business, also I can manage your server and software deployment on a Linux machine.
-
-I am a fan of automation and you know what it means. Mathematics does tempt me but believe me I can't sit with math textbooks for hours.
+Software Developer with 2+ years of experience building backend systems in Rust, TypeScript, and Python. Improved uptime, deployment speed, and backend performance across multiple projects. Comfortable with distributed systems, systems programming, and automation workflows.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/piyushxcoder)
 
