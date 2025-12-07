@@ -7,7 +7,7 @@ Rust 🦀 | Web 🌐 | Golang | C++ | Solana
 
 **Engineer since before AI was a copilot**
 
-Software Developer with 2+ years of experience building backend systems in Rust, TypeScript, and Python. Improved uptime, deployment speed, and backend performance across multiple projects. Comfortable with distributed systems, systems programming, and automation workflows.
+Software Developer with experience building backend systems in Rust, TypeScript, and Python. Improved uptime, deployment speed, and backend performance across multiple projects. Comfortable with distributed systems, systems programming, and automation workflows.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/piyushxcoder)
 
